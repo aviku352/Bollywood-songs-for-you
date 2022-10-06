@@ -3932,7 +3932,17 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
-    }
+    },
+       {
+              "id": 525,
+               "name": "Pal-Jalebi",
+               "lyrics": "https://www.lyricsmint.com/jalebi/pal-arijit-singh",
+               "album": "Jalebi",
+               "Duration": "4 min 8 sec",
+               "singer": ["Arijit Singh", "Shreya Ghoshal"],
+               "genre": ["Romantic"],
+                "link": "https://www.youtube.com/watch?v=aDFEb_W2t1Y"
+       }      
     
     ]
     
